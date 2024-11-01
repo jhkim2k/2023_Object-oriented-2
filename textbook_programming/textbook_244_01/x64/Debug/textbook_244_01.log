@@ -1,0 +1,5 @@
+﻿  textbook_244_01.cpp
+F:\객체지향프로그래밍2 code\textbook_244_01\textbook_244_01.cpp(12,9): error C2600: 'Point::~Point': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+F:\객체지향프로그래밍2 code\textbook_244_01\textbook_244_01.cpp(12,31): error C2440: 'delete': 'Point'에서 'void*'(으)로 변환할 수 없습니다.
+F:\객체지향프로그래밍2 code\textbook_244_01\textbook_244_01.cpp(12,31): message : 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+F:\객체지향프로그래밍2 code\textbook_244_01\textbook_244_01.cpp(12,9): message : 이 진단은 컴파일러 생성 함수 'Point::~Point(void)'에서 수행되었습니다.
